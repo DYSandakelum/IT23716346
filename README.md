@@ -38,7 +38,7 @@ Follow these steps to set up and run the tests:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone [YOUR_REPOSITORY_URL_HERE]
+git clone https://github.com/DYSandakelum/IT23716346
 cd IT23716346
 ```
 
