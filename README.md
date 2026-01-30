@@ -39,7 +39,7 @@ Follow these steps to set up and run the tests:
 ### Step 1: Clone the Repository
 ```bash
 git clone [YOUR_REPOSITORY_URL_HERE]
-cd playwright-tests
+cd IT23716346
 ```
 
 ### Step 2: Install Dependencies
